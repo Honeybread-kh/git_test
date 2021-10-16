@@ -13,6 +13,6 @@
 
 # quote
 ">" 으로 quote      
-> quete 
+> quete    
 ">  >" 으로 quote depth
 >   > quote depth 2
